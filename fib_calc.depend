@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1480604601 source:c:\users\rober\documents\github\fib_calc\main.c
+	<stdio.h>
+	<stdlib.h>
+
